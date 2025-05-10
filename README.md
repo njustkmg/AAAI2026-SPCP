@@ -56,11 +56,3 @@ sh imagenet200_test.sh
 # SPCP+LogitNorm Test
 sh imagenet200_logitnorm_test.sh
 ```
-
-
-
-
-
-
-
->>>>>>> e62fa02 (first commit)
